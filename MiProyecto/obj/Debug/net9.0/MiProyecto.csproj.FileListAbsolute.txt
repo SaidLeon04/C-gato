@@ -1,0 +1,14 @@
+D:\Programacion NWO\C#\MiProyecto\bin\Debug\net9.0\MiProyecto.exe
+D:\Programacion NWO\C#\MiProyecto\bin\Debug\net9.0\MiProyecto.deps.json
+D:\Programacion NWO\C#\MiProyecto\bin\Debug\net9.0\MiProyecto.runtimeconfig.json
+D:\Programacion NWO\C#\MiProyecto\bin\Debug\net9.0\MiProyecto.dll
+D:\Programacion NWO\C#\MiProyecto\bin\Debug\net9.0\MiProyecto.pdb
+D:\Programacion NWO\C#\MiProyecto\obj\Debug\net9.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion NWO\C#\MiProyecto\obj\Debug\net9.0\MiProyecto.AssemblyInfoInputs.cache
+D:\Programacion NWO\C#\MiProyecto\obj\Debug\net9.0\MiProyecto.AssemblyInfo.cs
+D:\Programacion NWO\C#\MiProyecto\obj\Debug\net9.0\MiProyecto.csproj.CoreCompileInputs.cache
+D:\Programacion NWO\C#\MiProyecto\obj\Debug\net9.0\MiProyecto.dll
+D:\Programacion NWO\C#\MiProyecto\obj\Debug\net9.0\refint\MiProyecto.dll
+D:\Programacion NWO\C#\MiProyecto\obj\Debug\net9.0\MiProyecto.pdb
+D:\Programacion NWO\C#\MiProyecto\obj\Debug\net9.0\MiProyecto.genruntimeconfig.cache
+D:\Programacion NWO\C#\MiProyecto\obj\Debug\net9.0\ref\MiProyecto.dll
